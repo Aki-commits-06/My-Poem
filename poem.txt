@@ -3,8 +3,4 @@ a new file is born
 
 from here on out, it will change
 
-it will change
-it's legacy will remain
-despite ever changing
-
 bit by bit
