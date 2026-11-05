@@ -1,4 +1,11 @@
-in this repository
-a new file has changed
+The Rainbow
 
-hello world!
+Purple
+Pink
+Orange
+Blue
+Green
+Indigo
+Yellow
+Red
+These are the colors of the rainbow.
