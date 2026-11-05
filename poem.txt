@@ -1,4 +1,13 @@
-in this repository
-a new file has changed
+The Rainbow and the Unicorn and the Pony
 
-hello world!
+Purple
+Pink
+Orange
+Blue
+Green
+Unicorn
+Yellow
+Red
+These are the colors of the rainbow.
+And the Unicorn.
+Pony
